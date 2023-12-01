@@ -7,3 +7,7 @@ Then performed some transformations on raw data using Azure Databricks. Again I 
 Below image shows the data pipeline which is created to load the data from the data source. 
 
 ![olympic_datapipeline](https://github.com/RinkiDarade98/tokyo-olympic-2021-azure-data-engineering-project/assets/129477415/aee846a6-9fb0-4b51-b844-bbd6c024e29d)
+
+Below image shows the dashboard of Tokyo Olympic data, which was created on PowerBI.
+
+![olympicdashboard2](https://github.com/RinkiDarade98/tokyo-olympic-2021-azure-data-engineering-project/assets/129477415/5a010768-656e-4043-94c3-cea63028bf65)
